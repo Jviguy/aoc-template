@@ -2,4 +2,3 @@
 cargo_generate_version = ">=0.18.0"
 
 [placeholders]
-day_num = { type = "string", default = "1" }
