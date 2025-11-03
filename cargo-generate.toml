@@ -1,5 +1,5 @@
 [template]
 cargo_generate_version = ">=0.18.0"
 
-[vars]
+[placeholders]
 day_num = { type = "string", default = "1" }
