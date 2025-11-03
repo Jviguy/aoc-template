@@ -1,0 +1,5 @@
+[template]
+cargo_generate_version = ">=0.18.0"
+
+[vars]
+project_name = { type = "string", prompt = "What is the name of your new AoC crate?", default = "aoc_2025" }
