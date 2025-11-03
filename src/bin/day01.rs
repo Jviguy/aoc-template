@@ -8,4 +8,4 @@ fn part2(input: &str) -> Result<String, Box<dyn std::error::Error>> {
     Ok("Part 2 not implemented".to_string())
 }
 
-aoc_main!({{DAY_NUM_PLACEHOLDER}}, part1, part2);
+aoc_main!({{day_num}}, part1, part2);

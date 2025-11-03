@@ -2,4 +2,4 @@
 cargo_generate_version = ">=0.18.0"
 
 [vars]
-DAY_NUM_PLACEHOLDER = {type = "string", default = "1"}
+day_num = { type = "string", default = "1" }
