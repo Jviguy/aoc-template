@@ -1,2 +1,7 @@
 /target
-Cargo.lock
+
+#ignore the session token.
+.env
+
+# Up to the user but by default im gonna ignore the data directory.
+/data/inputs/
